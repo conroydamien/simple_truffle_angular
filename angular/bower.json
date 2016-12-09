@@ -5,7 +5,7 @@
     "angular": "^1.4.0",
     "bootstrap": "^3.2.0",
     "web3": ">0.0.0",
-    "truffle": "file:///home/damien/webproj2/truffle/build/.git/"
+    "truffle": "file:///home/damien/simple_truffle_angular/truffle/build/.git/"
   },
   "devDependencies": {
     "angular-mocks": "^1.4.0"
